@@ -42,6 +42,16 @@ This project was developed after completing my first Java programming course. It
 3. Compile and run `PasswordTool.java`.
 4. Follow the on-screen menu.
 
+## Screenshots
+
+### Main Menu
+
+![Main Menu](menu.png)
+
+### Password Generator Example
+
+![Password Generator](example.png)
+
 ## Future Improvements
 
 As I continue my Computer Information Systems coursework, I plan to enhance this project by exploring cryptographically secure random number generation, external configuration files, automated testing, and a graphical user interface.
