@@ -8,7 +8,9 @@ Java application for password validation, strength analysis, and secure password
 
 ## Overview
 
-This project was developed after completing my first Java programming course. It demonstrates core Java programming concepts by allowing users to either validate the strength of a password or generate a random password that meets common security requirements.
+Password Security Tool is a Java console application that evaluates password strength and generates secure passwords based on common security requirements.
+
+The project was developed after completing my first Java programming course and demonstrates fundamental programming concepts including methods, loops, arrays, conditionals, string manipulation, and input validation.
 
 ## Features
 
