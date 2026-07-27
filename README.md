@@ -1,6 +1,6 @@
 # Password Security Tool
 
-A Java console application that evaluates password strength and generates secure passwords.
+Java application for password validation, strength analysis, and secure password generation.
 
 ## Overview
 
