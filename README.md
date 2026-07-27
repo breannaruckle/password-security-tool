@@ -8,38 +8,42 @@ Java application for password validation, strength analysis, and secure password
 
 ## Overview
 
-Password Security Tool is a Java console application that evaluates password strength and generates secure passwords based on common security requirements.
+Password Security Tool is a Java console application that evaluates password strength and generates secure passwords using common password security best practices.
 
-The project was developed after completing my first Java programming course and demonstrates fundamental programming concepts including methods, loops, arrays, conditionals, string manipulation, and input validation.
+The project was developed after completing my first Java programming course and demonstrates fundamental programming concepts including methods, loops, arrays, conditionals, string manipulation, and input validation while applying them to a practical cybersecurity-related problem.
+
+## Why I Built This
+
+Strong passwords play an important role in protecting user accounts and systems. I created this project to strengthen my Java programming skills while applying basic password security concepts, including password length, character diversity, and common password detection.
+
+Building this application also gave me experience designing a complete console application from planning and implementation to testing and documentation.
 
 ## Features
 
-- Validate user-created passwords
-- Generate random passwords
-- Password strength scoring (Weak, Medium, Strong)
-- Minimum length requirement (12 characters)
-- Uppercase letter detection
-- Lowercase letter detection
-- Number detection
-- Special character detection
-- Common password detection
-- Input validation
+| Feature | Description |
+|---------|-------------|
+| Password Validation | Verifies passwords meet security requirements |
+| Password Generator | Creates randomized passwords of user-selected length |
+| Strength Analysis | Rates passwords as Weak, Medium, or Strong |
+| Common Password Detection | Identifies frequently used passwords |
+| Input Validation | Handles invalid user input gracefully |
 
 ## Technologies Used
 
 - Java
 - NetBeans IDE
 
-## Skills Demonstrated
+## Concepts Demonstrated
 
-- Methods
+- Java methods
+- Conditional statements
 - Loops
-- Conditionals
 - Arrays
 - String manipulation
-- Random password generation
+- Character validation
 - User input validation
-- Console application development
+- Random password generation
+- Console-based applications
 
 ## How to Run
 
@@ -52,16 +56,42 @@ The project was developed after completing my first Java programming course and 
 
 ### Main Menu
 
-![Main Menu](menu.png)
+The application allows users to validate an existing password or generate a secure password.
 
-### Password Generator Example
+![Main Menu](screenshots/menu.png)
 
-![Password Generator](example.png)
+---
 
-## Future Improvements
+### Password Generator
+
+Example of a generated password that satisfies the application's security requirements.
+
+![Password Generator](screenshots/example.png)
+
+## Project Structure
+
+```text
+password-security-tool
+├── README.md
+├── LICENSE
+├── PasswordTool.java
+└── screenshots/
+    ├── menu.png
+    └── example.png
+```
+
+## Future Enhancements
 
 As I continue my Computer Information Systems coursework, I plan to enhance this project by exploring cryptographically secure random number generation, external configuration files, automated testing, and a graphical user interface.
 
 ## Author
 
-Breanna Ruckle
+**Breanna Ruckle**
+
+Computer Information Systems Student
+
+Southeast Missouri State University
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
