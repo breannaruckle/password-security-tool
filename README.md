@@ -2,6 +2,10 @@
 
 Java application for password validation, strength analysis, and secure password generation.
 
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 ## Overview
 
 This project was developed after completing my first Java programming course. It demonstrates core Java programming concepts by allowing users to either validate the strength of a password or generate a random password that meets common security requirements.
