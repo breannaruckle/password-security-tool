@@ -44,12 +44,7 @@ This project was developed after completing my first Java programming course. It
 
 ## Future Improvements
 
-As I continue learning Java, I plan to:
-
-- Use `SecureRandom` for password generation.
-- Read common passwords from an external file.
-- Add unit tests.
-- Build a graphical user interface.
+As I continue my Computer Information Systems coursework, I plan to enhance this project by exploring cryptographically secure random number generation, external configuration files, automated testing, and a graphical user interface.
 
 ## Author
 
